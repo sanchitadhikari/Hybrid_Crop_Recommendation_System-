@@ -1,0 +1,30 @@
+[
+  {
+    "feature": "humidity",
+    "importance": 0.03243610861973163
+  },
+  {
+    "feature": "K",
+    "importance": 0.027587018630092133
+  },
+  {
+    "feature": "rainfall",
+    "importance": 0.02568220667553599
+  },
+  {
+    "feature": "N",
+    "importance": 0.025211033702191698
+  },
+  {
+    "feature": "P",
+    "importance": 0.024517586236107357
+  },
+  {
+    "feature": "temperature",
+    "importance": 0.010369805986945193
+  },
+  {
+    "feature": "ph",
+    "importance": 0.005053119836887393
+  }
+]
